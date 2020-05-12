@@ -1,6 +1,7 @@
 # Django_Practice
 repository for Django practice tasks
-# Documentation with Sphinx
-# django mysql connectvity
-# create new project
-# mysql connect with mysql workbench
+# Tasks done in this practice
+  Documentation with Sphinx
+  Django mysql connectvity
+  Create new project
+  Mysql connect with mysql workbench
